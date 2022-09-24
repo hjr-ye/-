@@ -71,7 +71,7 @@ justify-content: center;
 	.nav div
 {
   background-color:;
-  background-image: url('../hajer.jpg');
+  background-image: url('./hajer.jpg');
  width:69px;
  height:68px;
  margin-right:2px;
